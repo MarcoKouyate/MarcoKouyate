@@ -1,22 +1,25 @@
 <h1 align="center">*Bonjour*, world! I'm Marco Kouyaté</h1>
 <h2 align="center">A French developer working on games and VR performances!</h2>
 
+![image](https://user-images.githubusercontent.com/17044444/234914759-0340fa9c-e56c-459f-a068-27c204ea5959.png)
+
+
 <h3 align="center">My current projects</h3>
 
-- 🔭 I'm working on a mobile rythm game [GraVty Girls](https://memoart.itch.io/gravty-girls-alpha-release?secret=sCZqn6J08qlNrTurQKWXytgCrD0)
+- 🔭 I'm currently working on a mobile rythm game [GraVty Girls](https://memoart.itch.io/gravty-girls-alpha-release?secret=sCZqn6J08qlNrTurQKWXytgCrD0). A Unity project inspired by Muse Dash. 
 
 - 🌱 I’m currently learning **Rust, C++ and OpenGL**
 
-- 👯 I’m also the technical manager of [GraVty](https://gravty.uwu.ai/)
+- 👯 I’m also the technical manager of [GraVty](https://gravty.uwu.ai/), a group of livestreamers using virtual avatars
 
-- 🤝 I’m building my own game engine [MemoGL](https://github.com/MarcoKouyate/MemoGL)
+- 🤝 I’m building my own game engine [MemoGL](https://github.com/MarcoKouyate/MemoGL) as a learning experience for building complex systems. 
 
-- 👨‍💻 All of my projects are available at [https://marcokouyate.notion.site/e15976482eea44d9a419cde7c7b0d0c6?v=568ebcc49da34a249669d779936523e8](https://marcokouyate.notion.site/e15976482eea44d9a419cde7c7b0d0c6?v=568ebcc49da34a249669d779936523e8)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://marcokouyate.notion.site/e15976482eea44d9a419cde7c7b0d0c6?v=568ebcc49da34a249669d779936523e8)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/marcokouyate/](https://www.linkedin.com/in/marcokouyate/)
+- 📄 Know about my experiences at my [LinkedIn Profile](https://www.linkedin.com/in/marcokouyate/)
 
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 
 <h4 align="left">Software Programming</h4>
 <p><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
@@ -30,8 +33,8 @@
 <h4 align="left">Softwares</h4>
 <p><a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Connect with me:</h3>
-- 📫 How to reach me **marco.kouyate@yahoo.fr**
+<h3 align="center">Contact me</h3>
+📫 How to reach me <strong>**marco.kouyate@yahoo.fr**</strong>
 
 <h4 align="left">Social</h4>
 <p align="left">
@@ -41,5 +44,5 @@
 </p>
 
 
-<h4 align="left">Support:</h4>
+<h4 align="left">Support</h4>
 <p><a href="https://ko-fi.com/MarcoKouyate"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="MarcoKouyate" /></a></p>
