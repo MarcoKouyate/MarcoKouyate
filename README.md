@@ -1,4 +1,4 @@
-<h1 align="center">*Bonjour*, world! I'm Marco Kouyaté</h1>
+<h1 align="center"><i>Bonjour</i>, world! I'm <u>Marco Kouyaté</u></h1>
 <h2 align="center">A French developer working on games and VR performances!</h2>
 
 ![image](https://user-images.githubusercontent.com/17044444/234914759-0340fa9c-e56c-459f-a068-27c204ea5959.png)
