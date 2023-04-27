@@ -43,4 +43,4 @@
   <a href="https://www.youtube.com/@marcokouyate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@marcokouyate" height="30" width="40" /></a>
 </p>
 
-<p><a href="https://ko-fi.com/MarcoKouyate"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="MarcoKouyate" /></a></p>
+<p align="center"><a href="https://ko-fi.com/MarcoKouyate"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="MarcoKouyate" /></a></p>
