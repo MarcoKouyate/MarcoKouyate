@@ -36,15 +36,10 @@
 <img src="https://media.discordapp.net/attachments/826844869237538877/832364642230861824/paws_start.gif" align="center"/>
 
 <h3 align="center">Contact me</h3>
-📫 How to reach me <strong>**marco.kouyate@yahoo.fr**</strong>
-
-<h4 align="left">Social</h4>
-<p align="left">
+<p align="center">📫<strong>marco.kouyate@yahoo.fr</strong></p>
+<p align="center">
 <a href="https://twitter.com/memoart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="memoart" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marcokouyate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcokouyate" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@marcokouyate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@marcokouyate" height="30" width="40" /></a>
+<a href="https://ko-fi.com/MarcoKouyate"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="MarcoKouyate" /></a>
 </p>
-
-
-<h4 align="left">Support My Projects!</h4>
-<p><a href="https://ko-fi.com/MarcoKouyate"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="MarcoKouyate" /></a></p>
